@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <celulares>
+    <celular>
+      <marca>MOTOROLA</marca>
+      <modelo>MOTOG</modelo>
+      <valor>700</valor>
+    </celular>
+    <celular>
+      <marca>APPLE</marca>
+      <modelo>IPHONE 7</modelo>
+      <valor>2500</valor>
+    </celular>
+    <celular>
+      <marca>APPLE</marca>
+      <modelo>IPHONE 8</modelo>
+      <valor>3200</valor>
+    </celular>
+    <celular>
+      <marca>APPLE</marca>
+      <modelo>IPHONE X</modelo>
+      <valor>4500</valor>
+    </celular>
+    <celular>
+      <marca>SAMSUNG</marca>
+      <modelo>A7</modelo>
+      <valor>2500</valor>
+    </celular>
+    <celular>
+      <marca>SAMSUNG</marca>
+      <modelo>J7</modelo>
+      <valor>2000</valor>
+    </celular>
+    <celular>
+      <marca>LG</marca>
+      <modelo>K10</modelo>
+      <valor>800</valor>
+    </celular>
+    <celular>
+      <marca>SONY</marca>
+      <modelo>XPERIA E5</modelo>
+      <valor>700</valor>
+    </celular>
+    <celular>
+      <marca>SONY</marca>
+      <modelo>XPIRIA XA1</modelo>
+      <valor>1500</valor>
+    </celular>
+    <celular>
+      <marca>ASUS</marca>
+      <modelo>ZENFONE 5</modelo>
+      <valor>1500</valor>
+    </celular>
+    <celular>
+      <marca>SAMSUNG</marca>
+      <modelo>J5</modelo>
+      <valor>700</valor>
+    </celular>
+  </celulares>
+
+</root>>

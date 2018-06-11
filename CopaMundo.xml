@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="CopaMudo.xsl"?>
+
+<selecao>
+  <pais>
+    <time>Russia</time>
+    <participacoes>11</participacoes>
+    <melhorResultado>4° Lugar</melhorResultado>
+    <ultimoResultado>Eliminada na Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Brasil</time>
+    <participacoes>21</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>4° Lugar</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Irã</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Primeira fase</melhorResultado>
+    <ultimoResultado>Primeira fase </ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Japão</time>
+    <participacoes>6</participacoes>
+    <melhorResultado>Quartas de finais</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>México</time>
+    <participacoes>16</participacoes>
+    <melhorResultado>Quartas de finais</melhorResultado>
+    <ultimoResultado>Oitavas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Bélgica</time>
+    <participacoes>13</participacoes>
+    <melhorResultado>4° Lugar</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Coreia do sul</time>
+    <participacoes>10</participacoes>
+    <melhorResultado>4° Lugar</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Arabia Saudita</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Oitavas de finais</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Alemanha</time>
+    <participacoes>19</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>Campeã</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Inglaterra</time>
+    <participacoes>15</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Espanha</time>
+    <participacoes>15</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Nigéria</time>
+    <participacoes>6</participacoes>
+    <melhorResultado>Oitavas de finais</melhorResultado>
+    <ultimoResultado>Oitavas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Costa Rica</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Quartas de finais</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Polônia</time>
+    <participacoes>8</participacoes>
+    <melhorResultado>3° Lugar</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Egito</time>
+    <participacoes>3</participacoes>
+    <melhorResultado>Primeira fase</melhorResultado>
+    <ultimoResultado>primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Sérvia</time>
+    <participacoes>4</participacoes>
+    <melhorResultado>4° Lugar</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Islândia</time>
+    <participacoes>1</participacoes>
+    <melhorResultado>Estreante</melhorResultado>
+    <ultimoResultado>Estreante</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>França</time>
+    <participacoes>15</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Portugal</time>
+    <participacoes>7</participacoes>
+    <melhorResultado>3° Lugar</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Uruguai</time>
+    <participacoes>13</participacoes>
+    <melhorResultado>Campeã</melhorResultado>
+    <ultimoResultado>Vice-Campeã</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Colômbia</time>
+    <participacoes>6</participacoes>
+    <melhorResultado>Quartas de finais</melhorResultado>
+    <ultimoResultado>Quartas de finais</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Panamá</time>
+    <participacoes>1</participacoes>
+    <melhorResultado>Estreante</melhorResultado>
+    <ultimoResultado>Estreante</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Senegal</time>
+    <participacoes>2</participacoes>
+    <melhorResultado>Quartas de final</melhorResultado>
+    <ultimoResultado>Quartas de final</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Marrocos</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Oitavas de final</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Tunísia</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Primeira fase</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Croácia</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>3° Lugar</melhorResultado>
+    <ultimoResultado>Fase de grupos</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Suiça</time>
+    <participacoes>11</participacoes>
+    <melhorResultado>Quartas de final</melhorResultado>
+    <ultimoResultado>Oitavas de final</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Suécia</time>
+    <participacoes>12</participacoes>
+    <melhorResultado>Vice-Campeã</melhorResultado>
+    <ultimoResultado>Oitavas de final</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Dinamarca</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Quartas de final</melhorResultado>
+    <ultimoResultado>primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Autralía</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Quartas de final</melhorResultado>
+    <ultimoResultado>primeira fase</ultimoResultado>
+  </pais>
+
+  <pais>
+    <time>Peru</time>
+    <participacoes>5</participacoes>
+    <melhorResultado>Quartas de final</melhorResultado>
+    <ultimoResultado>Primeira fase</ultimoResultado>
+  </pais>
+</selecao>

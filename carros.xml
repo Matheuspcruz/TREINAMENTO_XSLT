@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<agencia>
+  <carros>
+    <carro>
+      <montadora>HONDA</montadora>
+      <modelo>CIVIC</modelo>
+      <ano>2015</ano>
+      <cor>PRATA</cor>
+      <valor>55000</valor>
+    </carro>
+    <carro>
+      <montadora>TOYOTA</montadora>
+      <modelo>COROLLA</modelo>
+      <ano>2016</ano>
+      <cor>PRETO</cor>
+      <valor>49000</valor>
+    </carro>
+    <carro>
+      <montadora>HYUNDAI</montadora>
+      <modelo>IX35</modelo>
+      <ano>2013</ano>
+      <cor>PRATA</cor>
+      <valor>48000</valor>
+    </carro>
+    <carro>
+      <montadora>VOLKSWAGEN</montadora>
+      <modelo>JETTA</modelo>
+      <ano>2016</ano>
+      <cor>BRANCO</cor>
+      <valor>58000</valor>
+    </carro>
+    <carro>
+      <montadora>FORD</montadora>
+      <modelo>FUSION</modelo>
+      <ano>2017</ano>
+      <cor>PRETO</cor>
+      <valor>68000</valor>
+    </carro>
+    <carro>
+      <montadora>MITSUBISHI</montadora>
+      <modelo>LANCER</modelo>
+      <ano>2015</ano>
+      <cor>BRANCO</cor>
+      <valor>48000</valor>
+    </carro>
+    <carro>
+      <montadora>FIAT</montadora>
+      <modelo>TORO</modelo>
+      <ano>2017</ano>
+      <cor>VERMELHO</cor>
+      <valor>68000</valor>
+    </carro>
+    <carro>
+      <montadora>JEEP</montadora>
+      <modelo>COMPASS</modelo>
+      <ano>2016</ano>
+      <cor>BRANCO</cor>
+      <valor>70000</valor>
+    </carro>
+  </carros>
+</agencia>

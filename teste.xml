@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="teste.xsl"?>
+<Catalogo>
+
+  <Filme>
+    <Titulo>Homem de ferro</Titulo>
+    <Ano>2010</Ano>
+  </Filme>
+  <Filme>
+    <Titulo>Homem-Aranha</Titulo>
+    <Ano>2011</Ano>
+  </Filme>
+  <Filme>
+    <Titulo>Thor</Titulo>
+    <Ano>2012</Ano>
+  </Filme>
+  <Filme>
+    <Titulo>Capitão America</Titulo>
+    <Ano>2013</Ano>
+  </Filme>
+  <Filme>
+    <Titulo>Homem Formiga</Titulo>
+    <Ano>2015</Ano>
+  </Filme>
+  <Filme>
+    <Titulo>Guardião das galaxias</Titulo>
+    <Ano>2016</Ano>
+  </Filme>
+
+</Catalogo>

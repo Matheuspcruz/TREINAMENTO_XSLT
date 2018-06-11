@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+ <meus-itens>
+  <item>
+   <nome>Banana</nome>
+   <preco>8.00</preco>
+  </item>
+  <item>
+   <nome>Abacate</nome>
+   <preco>5.00</preco>
+  </item>
+  <item>
+   <nome>Abacaxi</nome>
+   <preco>7.00</preco>
+  </item>
+ </meus-itens>
+</root>

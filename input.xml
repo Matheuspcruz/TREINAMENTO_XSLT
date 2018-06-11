@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="input.xsl"?>
+
+<root>
+ <produtos>
+  <produto>
+   <nome>Banana</nome>
+   <preco>8.00</preco>
+   <tipo>Fruta</tipo>
+  </produto>
+  <produto>
+   <nome>Pao</nome>
+   <preco>5.00</preco>
+   <tipo>Padaria</tipo>
+  </produto>
+  <produto>
+   <nome>Leite</nome>
+   <preco>3.00</preco>
+   <tipo>Laticinio</tipo>
+  </produto>
+  <produto>
+   <nome>Abacate</nome>
+   <preco>5.00</preco>
+   <tipo>Fruta</tipo>
+  </produto>
+  <produto>
+   <nome>Abacaxi</nome>
+   <preco>7.00</preco>
+   <tipo>Fruta</tipo>
+  </produto>
+ </produtos>
+</root>
